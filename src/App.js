@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Esta es una prueba de commit <code>src/App.js</code> and save to reload.
+          Cambio nuevo.
         </p>
         <a
           className="App-link"
